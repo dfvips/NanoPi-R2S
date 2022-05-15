@@ -1,3 +1,5 @@
+# NanoPi-R2S-linux-5.15_正式版_全插件_旁路网关固件
+# 转：
 # 中文简体 | [English](https://github.com/DHDAXCW/NanoPi-R2S-2021/blob/main/EngLish.md)
 # NanoPi-R2S-2021 每天自动更新插件和内核版本。
 # 我使用的机场 https://i.ok4.icu/ExU6 稳定
